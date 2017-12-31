@@ -23,3 +23,6 @@
 
 # Ignore Coveralls local results data
 coverage/
+/public/packs
+/public/packs-test
+/node_modules
